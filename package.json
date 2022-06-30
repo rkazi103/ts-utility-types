@@ -1,0 +1,12 @@
+{
+  "name": "ts-utility-types",
+  "version": "1.0.0",
+  "description": "code repo for blog article on typescript utility types",
+  "main": "index.js",
+  "author": "rkazi103",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
